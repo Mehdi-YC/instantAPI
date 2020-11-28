@@ -56,7 +56,7 @@ def url_mapping():
     return_value="\n#index:\n"
     return_value+="@app.route('/')\n"
     return_value+="def index():\n"
-    return_value+="\treturn app.url_map\n\n"
+    return_value+="\treturn str(app.url_map)\n\n"
 
     return return_value
 
