@@ -1,7 +1,7 @@
 # instantAPI
 ## Description
 
-A scripts that generates a fully functional flask api from databases;the script is ready to use in production environement right after it ; you can add yout jwt secutiry token and tweek some code but the rest is already there (sqlite3 for the moment and looking for contributers)       
+A scripts that generates a fully functional flask api from databases;the script is ready to use in production environement right after it ; you can add yout jwt security token and tweek some code but the rest is already there (sqlite3 for the moment and looking for contributers)       
 
 ## Dependencies
 
@@ -41,4 +41,4 @@ for more examples make sure you test it your self or see the example folder
 
 # Before using
 
-make sure your databases’s tables all contains and auto incremental index .
+make sure your databases’s tables all contain an auto incremental index.
